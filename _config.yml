@@ -127,7 +127,7 @@ footer_button2: "Learn SLP technology"
 footer_link_2: "#"
 footer_description: "© 2020 Copyright: PSY-FI"
 
-baseurl: "/:psysi/" # the subpath of your site, e.g. /blog
+baseurl: "/psysi" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 
