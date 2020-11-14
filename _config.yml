@@ -1,0 +1,139 @@
+#Contacts informations"
+title: PSY-SI
+email: contact@psysi.io
+facebook: "#"
+telegram: "#"
+github_username:  "#"
+
+#header informations#
+headerLogo: "PSY-SI"
+headerLogoImage: "assets/images/logo.png"
+headerTitle: "Welcome to emerging technology"
+headerSubtitle: "Revolution of the current evolution"
+headerButtonDescription: "To Explorer"
+headerLink: "#"
+
+#menu navbar informations#
+navbar1: "Section 1"
+navbar1Link: "#section1"
+navbar2: "Section 2"
+navbar2Link: "#section2"
+navbar3: "Section 3"
+navbar3Link: "#section3"
+navbar4: "Section 4"
+navbar4Link: "#section4"
+navbar5: "BLOG"
+navbar5Link: "blog.html"
+navbar6: "FAQ"
+navbar6Link: "faq.html"
+
+#section1 informations#
+s1_title: "Our Services"
+s1_description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+  Fugit, error amet numquam iure provident voluptate esse quasi, veritatis totam voluptas nostrum quisquam
+  eum porro a pariatur veniam."
+#section1 Card 1 informations#
+s1_card1_image: "assets/images/icons/icon1.png"
+s1_card1_title: "Title Here"
+s1_card1_list1: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+s1_card1_list2: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+s1_card1_list3: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+#section1 Card 2 informations#
+s1_card2_image: "assets/images/icons/icon2.png"
+s1_card2_title: "Title Here"
+s1_card2_list1: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+s1_card2_list2: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+s1_card2_list3: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+#section1 Card 3 informations#
+s1_card3_image: "assets/images/icons/icon3.png"
+s1_card3_title: "Title Here"
+s1_card3_list1: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+s1_card3_list2: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+s1_card3_list3: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+
+#section 2 - slide 1 informations#
+s2_slide1_title: "Commodi sequi non animi"
+s2_slide1_description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem repellendus quasi fuga nesciunt
+dolorum nulla magnam veniam sapiente, fugiat! Commodi sequi non animi ea dolor molestiae
+iste."
+s2_slide1_photo: "assets/images/phone.png"
+#section 2 - slide 2 informations#
+s2_slide2_title: "Commodi sequi non animi"
+s2_slide2_description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem repellendus quasi fuga nesciunt
+dolorum nulla magnam veniam sapiente, fugiat! Commodi sequi non animi ea dolor molestiae
+iste."
+s2_slide2_photo: "assets/images/phone.png"
+
+#section 3 - boxs informations#
+section3_title: "An End-To-End Portfolio of Products & Services"
+section3_description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+#box 1#
+section3_box1_icon: "assets/images/icons/icon4.png"
+section3_box1_title: "First action"
+section3_box1_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+#box 2#
+section3_box2_icon: "assets/images/icons/icon5.png"
+section3_box2_title: "Secound action"
+section3_box2_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+#box 3#
+section3_box3_icon: "assets/images/icons/icon6.png"
+section3_box3_title: "Third action"
+section3_box3_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+#box 4#
+section3_box4_icon: "assets/images/icons/icon7.png"
+section3_box4_title: "Four action"
+section3_box4_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+#box 5#
+section3_box5_icon: "assets/images/icons/icon8.png"
+section3_box5_title: "Five action"
+section3_box5_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+#box 6#
+section3_box6_icon: "assets/images/icons/icon9.png"
+section3_box6_title: "Six action"
+section3_box6_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+
+#section 4 informations#
+s4_title: "Our Services"
+s4_description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut."
+#timeline 1#
+s4_time1_Title: "Launched our website"
+s4_time1_Hour: "08 Feb 2020"
+s4_time1_Description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda ullam adipisci reiciendis porro natus laudantium similique.
+  Explicabo amet ipsum fugiat aliquam alias."
+#timeline 2#
+s4_time2_Title: "Got the first 100 users"
+s4_time2_Hour: "17 Aug 2020"
+s4_time2_Description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda ullam adipisci reiciendis porro natus laudantium similique.
+  Explicabo amet ipsum fugiat aliquam alias."
+#timeline 3#
+s4_time3_Title: "Raised $1.4 million in seed funding"
+s4_time3_Hour: "26 Mar 2020"
+s4_time3_Description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda ullam adipisci reiciendis porro natus laudantium similique.
+  Explicabo amet ipsum fugiat aliquam alias."
+  #timeline 4#
+s4_time4_Title: "Team size increased to 20"
+s4_time4_Hour: "14 Apr 202020"
+s4_time4_Description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda ullam adipisci reiciendis porro natus laudantium similique.
+    Explicabo amet ipsum fugiat aliquam alias."
+
+#section 5 description#
+s5_blog_button: "READ MORE"
+s5_blog_button2: "Browse all blog posts"
+
+#footer#
+footer_button1: "Download Withepaper"
+footer_link_1: "#"
+footer_button2: "Learn SLP technology"
+footer_link_2: "#"
+footer_description: "© 2020 Copyright: PSY-FI"
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+
+permalink: /:title/
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
