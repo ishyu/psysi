@@ -1,26 +1,26 @@
 #Contacts informations"
-title: PSY-SI
+title: PSY-FI
 email: contact@psysi.io
-facebook: "#"
-telegram: "#"
-github_username:  "#"
+facebook: "https://www.facebook.com/Psy-Fi-853738974976149"
+telegram: "https://t.me/psy_fi_exchange"
+github_username:  "https://github.com/fintechntrusts2020/PSY-FI"
 
 #header informations#
-headerLogo: "PSY-SI"
+headerLogo: "PSY-FI"
 headerLogoImage: "assets/images/logo.png"
-headerTitle: "Welcome to emerging technology"
-headerSubtitle: "Revolution of the current evolution"
-headerButtonDescription: "To Explorer"
+headerTitle: "Native Currency Exchange"
+headerSubtitle: "The Future of Finance"
+headerButtonDescription: "Explorer"
 headerLink: "#"
 
 #menu navbar informations#
-navbar1: "Section 1"
+navbar1: "INTRODUCTION"
 navbar1Link: "#section1"
-navbar2: "Section 2"
+navbar2: "RESOURCES"
 navbar2Link: "#section2"
-navbar3: "Section 3"
+navbar3: "FEATURES"
 navbar3Link: "#section3"
-navbar4: "Section 4"
+navbar4: "ROADMAP"
 navbar4Link: "#section4"
 navbar5: "BLOG"
 navbar5Link: "blog.html"
@@ -28,106 +28,123 @@ navbar6: "FAQ"
 navbar6Link: "faq.html"
 
 #section1 informations#
-s1_title: "Our Services"
-s1_description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-  Fugit, error amet numquam iure provident voluptate esse quasi, veritatis totam voluptas nostrum quisquam
-  eum porro a pariatur veniam."
+s1_title: "Why Psy-Fi?"
+s1_description: "<b>PSY-FI[SĪ-FĪ]</b> or Psychological Finance is a decentralized blockchain service & cryptocurrency exchange solution relative to time banking. Users have the ability to offer & request services bound by smart contracts. As a result, agreements that have been fulfilled produce PSY-FI’s native currency referred to as “Universal Time (UTC)”. Unlike traditional time banking solutions, Psy-Fi provides an asset exchange allowing users to trade their UTC for other cryptocurrencies along with products, and services ."
 #section1 Card 1 informations#
-s1_card1_image: "assets/images/icons/icon1.png"
-s1_card1_title: "Title Here"
-s1_card1_list1: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-s1_card1_list2: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-s1_card1_list3: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+s1_card1_image: "assets/images/icons/icon10.png"
+s1_card1_title: "Decentralized"
+s1_card1_list1: "Fraud prevention is the essence of true blockchain technology."
+s1_card1_list2: "Enjoy authentic privacy measures with PSY-FI applications."
+s1_card1_list3: "Trust in transactions and protection of security data."
 #section1 Card 2 informations#
-s1_card2_image: "assets/images/icons/icon2.png"
-s1_card2_title: "Title Here"
-s1_card2_list1: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-s1_card2_list2: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-s1_card2_list3: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+s1_card2_image: "assets/images/icons/icon11.png"
+s1_card2_title: "Independent"
+s1_card2_list1: "Psychological finance is a network designed to generate real value."
+s1_card2_list2: "Without the sole dependence of crypto or fiat infusion."
+s1_card2_list3: "Convert labor, performance, and trust into a unique Time asset class."
 #section1 Card 3 informations#
-s1_card3_image: "assets/images/icons/icon3.png"
-s1_card3_title: "Title Here"
-s1_card3_list1: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-s1_card3_list2: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-s1_card3_list3: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+s1_card3_image: "assets/images/icons/icon12.png"
+s1_card3_title: "Affordable"
+s1_card3_list1: "Minimum fee of 0.00001000 BCH exchange security."
+s1_card3_list2: "insures of valuable yet, inexpensive services."
+s1_card3_list3: "Earn native currency backed by crypto assets that will be locked forever"
 
 #section 2 - slide 1 informations#
-s2_slide1_title: "Commodi sequi non animi"
-s2_slide1_description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem repellendus quasi fuga nesciunt
-dolorum nulla magnam veniam sapiente, fugiat! Commodi sequi non animi ea dolor molestiae
-iste."
-s2_slide1_photo: "assets/images/phone.png"
+s2_slide1_title: "Financial Portfolio Services"
+s2_slide1_description: "PSY-FI allows users with from all financial backgrounds to be productive in their own way. Weather you're an independent or organization, the PSY-FI is a solution for all mobile or desktop owners worldwide."
+s2_slide1_photo: "assets/images/shi-international-business.png"
+s2_slide1_title2: "Check out our Wallets solutions"
+s2_slide1_button: "Wallet Download"
+
 #section 2 - slide 2 informations#
-s2_slide2_title: "Commodi sequi non animi"
-s2_slide2_description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem repellendus quasi fuga nesciunt
-dolorum nulla magnam veniam sapiente, fugiat! Commodi sequi non animi ea dolor molestiae
-iste."
+s2_slide2_title: "Desktop, Mobile, & Web Wallet Downloads"
+s2_slide2_description_1: "Select the version wallet to download"
+s2_slide2_description_2: "Desktop version for Windows, Mac, & Linux"
+s2_slide2_description_3: "Mobile version for Android & Iphone"
+s2_slide2_description_4: "Web extension for Chrome & Firefox"
 s2_slide2_photo: "assets/images/phone.png"
 
 #section 3 - boxs informations#
-section3_title: "An End-To-End Portfolio of Products & Services"
-section3_description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+section3_title: "Features"
+section3_description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit." # To show this line, remove the comment command in HTML
 #box 1#
-section3_box1_icon: "assets/images/icons/icon4.png"
-section3_box1_title: "First action"
-section3_box1_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+section3_box1_icon: "assets/images/icons/icon13.png"
+section3_box1_title: "Contract Minting"
+section3_box1_description: "Generate UTC based on the smart contract duration periods and correlated events. A smart contract solution referred to as “Valideum”, produces a native time-based currency after completion of contract execution. Click Here to learn more about Valideum(VALID)."
 #box 2#
-section3_box2_icon: "assets/images/icons/icon5.png"
-section3_box2_title: "Secound action"
-section3_box2_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+section3_box2_icon: "assets/images/icons/icon7.png"
+section3_box2_title: "Time Value Security"
+section3_box2_description: "Each service exchange offer and request requires a security fee. The amount of 0.00001 BCH is stored permanently to initialize the contract minting function. Universal Time is also lockable as long as the market value is equal to or more than 0.00001 BCH. Alternatives such as Bitcoin, Ethereum, Ripple and more will be added overtime for more flexibility."
 #box 3#
 section3_box3_icon: "assets/images/icons/icon6.png"
-section3_box3_title: "Third action"
-section3_box3_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+section3_box3_title: "Time Asset & Service Exchange"
+section3_box3_description: "PSY-FI’s sole purpose is to convert labor performance into an asset based on service exchange. As UTC is produced, users have the ability to hire for services, purchase products, or exchange their UTC asset for cryptocurrency assets. PSY-FI does impose a small transaction fee to fund liquidity and the UTC faucet."
 #box 4#
-section3_box4_icon: "assets/images/icons/icon7.png"
-section3_box4_title: "Four action"
-section3_box4_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+section3_box4_icon: "assets/images/icons/icon14.png"
+section3_box4_title: "Service Exchange Referral Bonus"
+section3_box4_description: "Upon the finalization of a Service Request or Service Offer, users may apply a referral bonus % for marketing assistance. This optional feature will influence engagement to prevent Requests and Offers from extending idling. Additionally, this feature utilizes multi-level scaling; after acceptance of a Request or Offer, all connected references will be compensated accordingly."
 #box 5#
 section3_box5_icon: "assets/images/icons/icon8.png"
-section3_box5_title: "Five action"
-section3_box5_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+section3_box5_title: "Time Asset Lending"
+section3_box5_description: "Lend or borrow UTC based on user performance metrics such as; Completed Contracts, Pending Contracts Value, Contract Condition Dates, User Credit Rating, etc. An intuitive financing tool for individuals and organizations seeking growth. For more information Click Here."
 #box 6#
-section3_box6_icon: "assets/images/icons/icon9.png"
-section3_box6_title: "Six action"
-section3_box6_description: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+section3_box6_icon: "assets/images/icons/icon15.png"
+section3_box6_title: "Universal Time Faucet"
+section3_box6_description: "No crypto? No problem! All PSY-FI users may collect from the faucet to aid them in their time of need. Daily limitations are invoked to ensure that all new and existing users are equally able to collect."
+
+#box 7#
+section3_box7_icon: "assets/images/icons/icon9.png"
+section3_box7_title: "User Credit Rating"
+section3_box7_description: "PSY-FI implements its own user logistics to measure credit worthiness. This protocol firmly re-instills user accountability and trust with technological simplicity. Based on correlating criteria, apprehension of low and high risk accounts couldn’t be easier."
 
 #section 4 informations#
-s4_title: "Our Services"
+s4_title: "ROADMAP"
 s4_description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut."
 #timeline 1#
-s4_time1_Title: "Launched our website"
+s4_time1_Title: "Mobile Development"
 s4_time1_Hour: "08 Feb 2020"
-s4_time1_Description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda ullam adipisci reiciendis porro natus laudantium similique.
-  Explicabo amet ipsum fugiat aliquam alias."
+s4_time1_Description: "Development of PSY-FI applications on Android and IOS operating systems."
 #timeline 2#
-s4_time2_Title: "Got the first 100 users"
+s4_time2_Title: "Desktop Development"
 s4_time2_Hour: "17 Aug 2020"
-s4_time2_Description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda ullam adipisci reiciendis porro natus laudantium similique.
-  Explicabo amet ipsum fugiat aliquam alias."
+s4_time2_Description: "PSY-FI desktop development on Windows, Mac and Linux operating systems."
 #timeline 3#
-s4_time3_Title: "Raised $1.4 million in seed funding"
+s4_time3_Title: "Web Development"
 s4_time3_Hour: "26 Mar 2020"
-s4_time3_Description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda ullam adipisci reiciendis porro natus laudantium similique.
-  Explicabo amet ipsum fugiat aliquam alias."
+s4_time3_Description: "Development of the end-to-end web platform and resources."
   #timeline 4#
-s4_time4_Title: "Team size increased to 20"
+s4_time4_Title: "Web browser Extension"
 s4_time4_Hour: "14 Apr 202020"
-s4_time4_Description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda ullam adipisci reiciendis porro natus laudantium similique.
-    Explicabo amet ipsum fugiat aliquam alias."
+s4_time4_Description: "Web extension development for Google Chrome, Firefox, Microsoft Edge, Brava browsers."
+  #timeline 5#
+s4_time5_Title: "Industrial Indexing"
+s4_time5_Hour: "14 Apr 202020"
+s4_time5_Description: "Web extension development for Google Chrome, Firefox, Microsoft Edge, Brava browsers."
+  #timeline 6#
+s4_time6_Title: "Offered Products & Services"
+s4_time6_Hour: "14 Apr 202020"
+s4_time6_Description: "Web extension development for Google Chrome, Firefox, Microsoft Edge, Brava browsers."
+  #timeline 7#
+s4_time7_Title: "Website(s)"
+s4_time7_Hour: "14 Apr 202020"
+s4_time7_Description: "Web extension development for Google Chrome, Firefox, Microsoft Edge, Brava browsers."
+  #timeline 8#
+s4_time8_Title: "Location(s)"
+s4_time8_Hour: "14 Apr 202020"
+s4_time8_Description: "Web extension development for Google Chrome, Firefox, Microsoft Edge, Brava browsers."
 
 #section 5 description#
 s5_blog_button: "READ MORE"
 s5_blog_button2: "Browse all blog posts"
 
 #footer#
-footer_button1: "Download Withepaper"
+footer_button1: "Psy-Fi Whitepaper File Download"
 footer_link_1: "#"
-footer_button2: "Learn SLP technology"
-footer_link_2: "#"
-footer_description: "© 2020 Copyright: PSY-FI"
+footer_button2: "Learn Simple Ledger Protocol"
+footer_link_2: "https://simpleledger.cash/"
+footer_description: "© 2021 Copyright Psy-Fi"
 
-baseurl: "/psysi" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog *github include -> /psysi
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 
