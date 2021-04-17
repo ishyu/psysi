@@ -33,21 +33,21 @@ s1_description: "<b>PSY-FI[SĪ-FĪ]</b> or Psychological Finance is a decentrali
 #section1 Card 1 informations#
 s1_card1_image: "assets/images/icons/icon10.png"
 s1_card1_title: "Decentralized"
-s1_card1_list1: "Fraud prevention is the essence of true blockchain technology."
-s1_card1_list2: "Enjoy authentic privacy measures with PSY-FI applications."
-s1_card1_list3: "Trust in transactions and protection of security data."
+s1_card1_list1: "Fraud prevention is the essence of true blockchain technology"
+s1_card1_list2: "Enjoy authentic privacy measures with PSY-FI applications"
+s1_card1_list3: "Trust in transactions and protection of security data"
 #section1 Card 2 informations#
 s1_card2_image: "assets/images/icons/icon11.png"
 s1_card2_title: "Independent"
 s1_card2_list1: "Psychological finance is a network designed to generate real value."
-s1_card2_list2: "Without the sole dependence of crypto or fiat infusion."
-s1_card2_list3: "Convert labor, performance, and trust into a unique Time asset class."
+s1_card2_list2: "Without the sole dependence of crypto or fiat infusion"
+s1_card2_list3: "Convert labor, performance, and trust into a unique Time asset class"
 #section1 Card 3 informations#
 s1_card3_image: "assets/images/icons/icon12.png"
-s1_card3_title: "Affordable"
-s1_card3_list1: "Minimum fee of 0.00001000 BCH exchange security."
-s1_card3_list2: "insures of valuable yet, inexpensive services."
-s1_card3_list3: "Earn native currency backed by crypto assets that will be locked forever"
+s1_card3_title: "Free"
+s1_card3_list1: "There is no fee for using this network"
+s1_card3_list2: "You're trade services are money"
+s1_card3_list3: "No fiat or cryptocurrency required"
 
 #section 2 - slide 1 informations#
 s2_slide1_title: "Financial Portfolio Services"
