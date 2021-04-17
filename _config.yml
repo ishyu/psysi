@@ -117,21 +117,9 @@ s4_time4_Title: "Web browser Extension"
 s4_time4_Hour: "14 Apr 202020"
 s4_time4_Description: "Web extension development for Google Chrome, Firefox, Microsoft Edge, Brava browsers."
   #timeline 5#
-s4_time5_Title: "Industrial Indexing"
+s4_time5_Title: "Psy Finance Exchange Plugin"
 s4_time5_Hour: "14 Apr 202020"
-s4_time5_Description: "Web extension development for Google Chrome, Firefox, Microsoft Edge, Brava browsers."
-  #timeline 6#
-s4_time6_Title: "Offered Products & Services"
-s4_time6_Hour: "14 Apr 202020"
-s4_time6_Description: "Web extension development for Google Chrome, Firefox, Microsoft Edge, Brava browsers."
-  #timeline 7#
-s4_time7_Title: "Website(s)"
-s4_time7_Hour: "14 Apr 202020"
-s4_time7_Description: "Web extension development for Google Chrome, Firefox, Microsoft Edge, Brava browsers."
-  #timeline 8#
-s4_time8_Title: "Location(s)"
-s4_time8_Hour: "14 Apr 202020"
-s4_time8_Description: "Web extension development for Google Chrome, Firefox, Microsoft Edge, Brava browsers."
+s4_time5_Description: "This plugin will be integrated into all mobile, desktop, web, and browsers wallets for convenience."
 
 #section 5 description#
 s5_blog_button: "READ MORE"
