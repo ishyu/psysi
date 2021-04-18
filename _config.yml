@@ -72,9 +72,9 @@ section3_box1_icon: "assets/images/icons/icon13.png"
 section3_box1_title: "Contract Minting"
 section3_box1_description: "Generate UTC based on the smart contract duration periods and correlated events. A smart contract solution referred to as “Valideum”, produces a native time-based currency after completion of contract execution. Click Here to learn more about Valideum(VALID)."
 #box 2#
-section3_box2_icon: "assets/images/icons/icon7.png"
-section3_box2_title: "Time Value Security"
-section3_box2_description: "Each service exchange offer and request requires a security fee. The amount of 0.00001 BCH is stored permanently to initialize the contract minting function. Universal Time is also lockable as long as the market value is equal to or more than 0.00001 BCH. Alternatives such as Bitcoin, Ethereum, Ripple and more will be added overtime for more flexibility."
+#section3_box2_icon: ""
+#section3_box2_title: ""
+#section3_box2_description: ""
 #box 3#
 section3_box3_icon: "assets/images/icons/icon6.png"
 section3_box3_title: "Time Asset & Service Exchange"
