@@ -33,15 +33,15 @@ s1_description: "<b>PSY-FI[SĪ-FĪ]</b> or Psychological Finance is a decentrali
 #section1 Card 1 informations#
 s1_card1_image: "assets/images/icons/icon10.png"
 s1_card1_title: "Decentralized"
-s1_card1_list1: "Fraud prevention is the essence of true blockchain technology"
-s1_card1_list2: "Enjoy authentic privacy measures with PSY-FI applications"
-s1_card1_list3: "Trust in transactions and protection of security data"
+s1_card1_list1: "Fraud prevention"
+s1_card1_list2: "Authentic privacy measures"
+s1_card1_list3: "Data and transactions security"
 #section1 Card 2 informations#
 s1_card2_image: "assets/images/icons/icon11.png"
 s1_card2_title: "Independent"
-s1_card2_list1: "Psychological finance is a network designed to generate real value."
-s1_card2_list2: "Without the sole dependence of crypto or fiat infusion"
-s1_card2_list3: "Convert labor, performance, and trust into a unique Time asset class"
+s1_card2_list1: "Designed to generate real value"
+s1_card2_list2: "Without dependence of money infusion"
+s1_card2_list3: "Unique Time asset class"
 #section1 Card 3 informations#
 s1_card3_image: "assets/images/icons/icon12.png"
 s1_card3_title: "Free"

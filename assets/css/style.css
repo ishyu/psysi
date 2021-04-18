@@ -210,3 +210,7 @@ section {
       .text-muted-white{
         color: #FFFFFF;
       }
+
+.card-body{
+    padding: 0.9rem;
+}
