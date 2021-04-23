@@ -214,3 +214,40 @@ section {
 .card-body{
     padding: 0.9rem;
 }
+
+.carousel-control-next, .carousel-control-prev{
+  width: 8%;
+}
+
+.icon-wallets{
+  float:left;
+  width:90px;
+  margin-left: 5px;
+  margin-top: 5px;
+  height:90px;
+  background-color:#FFF;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.icon-wallets i.fab{
+  color:#000000;
+}
+
+ul.wallets-container{
+  list-style: none;
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 0;
+  margin-bottom: 25px;
+}
+
+a.wallet-buttons li{
+  border-style: none;
+}
+
+a.wallet-buttons li:hover {
+  border: 2px solid #dca500
+}

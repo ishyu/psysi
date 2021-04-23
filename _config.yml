@@ -56,12 +56,10 @@ s2_slide1_photo: "assets/images/shi-international-business.png"
 s2_slide1_button: "Wallet Download"
 
 #section 2 - slide 2 informations#
-s2_slide2_title: "Desktop, Mobile, & Web Wallet Downloads"
-s2_slide2_description_1: "Select the version wallet to download"
-s2_slide2_description_2: "Desktop version for Windows, Mac, & Linux"
-s2_slide2_description_3: "Mobile version for Android & Iphone"
-s2_slide2_description_4: "Web extension for Chrome & Firefox"
-s2_slide2_photo: "assets/images/phone.png"
+s2_slide2_title: "What’s your operating system?"
+s2_slide2_description_1: "Desktop wallets"
+s2_slide2_description_2: "Mobile wallets"
+s2_slide2_description_3: "Web browser extension"
 
 #section 3 - boxs informations#
 section3_title: "Features"
