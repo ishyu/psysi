@@ -119,8 +119,23 @@ s4_time5_Hour: "14 Apr 202020"
 s4_time5_Description: "This plugin will be integrated into all mobile, desktop, web, and browsers wallets for convenience."
 
 #section 5 description#
+
+s5_box5_image1: "assets/images/blog/logoblog.png" #images size 350x297
+s5_box5_title1: "PSY-FI CASH"
+s5_box5_description1: "The future of finance"
+s5_box5_link1: "https://psy-fi.cash/"
+
+s5_box5_image2: "assets/images/blog/replic.png" #images size 350x297
+s5_box5_title2: "Replica Economics"
+s5_box5_description2: "Turn your financial dream into a reality"
+s5_box5_link2: "https://replica-eco.net/"
+
+s5_box5_image3: "assets/images/blog/slp2.png" #images size 350x297
+s5_box5_title3: "General Crypto & Fiat News"
+s5_box5_description3: "Stay on top of news"
+s5_box5_link3: "https://news.bitcoin.com/"
+
 s5_blog_button: "READ MORE"
-s5_blog_button2: "Browse all blog posts"
 
 #footer#
 footer_button1: "Psy-Fi Whitepaper File Download"

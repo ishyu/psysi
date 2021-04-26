@@ -7,9 +7,8 @@
     <!-- Section heading -->
     <h3 class="text-center font-weight-bold mb-5">Latest news</h3>
 
-  	<!-- Grid row -->
+    <!-- Grid row -->
     <div class="row">
-{% for post in site.posts limit:3 %}
       <!-- Grid column -->
       <div class="col-lg-4 col-md-12 mb-lg-0 mb-4">
 
@@ -17,17 +16,17 @@
         <div class="card hoverable">
 
           <!-- Card image -->
-          <img class="card-img-top" src="{{ post.images }}" alt="Card image cap">
+          <img class="card-img-top" src="{{ site.s5_box5_image1 }}" alt="Card image cap">
 
           <!-- Card content -->
           <div class="card-body">
 
             <!-- Title -->
-            <a href="#!" class="black-text">{{ post.title }}</a>
+            <a href="#!" class="black-text">{{site.s5_box5_title1}}</a>
             <!-- Text -->
-            <p class="card-title text-muted font-small mt-3 mb-2">{{ post.description }}</p>
+            <p class="card-title text-muted font-small mt-3 mb-2">{{site.s5_box5_description1}}</p>
 
-            <button type="button" class="btn btn-flat text-primary2 p-0 mx-0"><a href="">{{site.s5_blog_button}}</a><i class="fa fa-angle-right ml-2"></i></button>
+            <button type="button" class="btn btn-flat text-primary2 p-0 mx-0"><a  target="_blank" href="{{site.s5_box5_link1}}">{{site.s5_blog_button}}</a><i class="fa fa-angle-right ml-2"></i></button>
 
           </div>
 
@@ -36,7 +35,61 @@
 
       </div>
       <!-- Grid column -->
-      {% endfor %}
+
+
+      <!-- Grid column -->
+      <div class="col-lg-4 col-md-12 mb-lg-0 mb-4">
+
+        <!-- Card -->
+        <div class="card hoverable">
+
+          <!-- Card image -->
+          <img class="card-img-top" src="{{ site.s5_box5_image2 }}" alt="Card image cap">
+
+          <!-- Card content -->
+          <div class="card-body">
+
+            <!-- Title -->
+            <a href="#!" class="black-text">{{site.s5_box5_title2}}</a>
+            <!-- Text -->
+            <p class="card-title text-muted font-small mt-3 mb-2">{{site.s5_box5_description2}}</p>
+
+            <button type="button" class="btn btn-flat text-primary2 p-0 mx-0"><a target="_blank" href="{{site.s5_box5_link2}}">{{site.s5_blog_button}}</a><i class="fa fa-angle-right ml-2"></i></button>
+
+          </div>
+
+        </div>
+        <!-- Card -->
+
+      </div>
+      <!-- Grid column -->
+
+      <!-- Grid column -->
+      <div class="col-lg-4 col-md-12 mb-lg-0 mb-4">
+
+        <!-- Card -->
+        <div class="card hoverable">
+
+          <!-- Card image -->
+          <img class="card-img-top" src="{{ site.s5_box5_image3 }}" alt="Card image cap">
+
+          <!-- Card content -->
+          <div class="card-body">
+
+            <!-- Title -->
+            <a href="#!" class="black-text">{{site.s5_box5_title3}}</a>
+            <!-- Text -->
+            <p class="card-title text-muted font-small mt-3 mb-2">{{site.s5_box5_description3}}</p>
+
+            <button type="button" class="btn btn-flat text-primary2 p-0 mx-0"><a  target="_blank" href="{{site.s5_box5_link3}}">{{site.s5_blog_button}}</a><i class="fa fa-angle-right ml-2"></i></button>
+
+          </div>
+
+        </div>
+        <!-- Card -->
+
+      </div>
+      <!-- Grid column -->
 
     </div>
     <!-- Grid row -->
